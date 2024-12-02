@@ -3,7 +3,9 @@
 Copywriting of a chosen product, which is MOONDROP MOCA for BIC31802: CYBERPRENEURSHIP
 
 Sem/Year: 1/20242025
+
 Student's Matric Number: CI220006
+
 Section: 8
 
 ## Credits 
