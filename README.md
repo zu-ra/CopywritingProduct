@@ -1,20 +1,10 @@
-# "Yebo" One Page Website Template
+# Copywriting Assignment (BIC31802: CYBERPRENEURSHIP)
 
-"Yebo" is a one page website template made by [Peter Finlan](http://peterfinlan.com/).
+Copywriting of a chosen product, which is MOONDROP MOCA for BIC31802: CYBERPRENEURSHIP
 
-[Download](https://dribbble.com/shots/1539580-Freebie-Yebo-Flat-HTML5-CSS3-Template)
-
-[Demo](https://dribbble.com/shots/1539580-Freebie-Yebo-Flat-HTML5-CSS3-Template)
-
-## License
-
-Use it freely but please do not republish, distribute or sell "as-is".
-
-## Contributing
-
-I encourage contributions to all of my templates and I will endeavour to review all pull requests submitted.
-
-Before contributing, please see the Contributing Guide (Coming soon).
+Sem/Year: 1/20242025
+Student's Matric Number: CI220006
+Section: 8
 
 ## Credits 
 
